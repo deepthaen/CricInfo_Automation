@@ -10,5 +10,8 @@
         <module name="CricInfo_Automation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CricInfo_Automation (1)" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

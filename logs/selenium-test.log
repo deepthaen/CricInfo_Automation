@@ -1,0 +1,1277 @@
+2024-10-08 22:48:39 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 22:54:23 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 22:55:40 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 22:55:40 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 22:57:11 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 22:57:12 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 23:00:00 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 23:01:34 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 23:01:34 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 23:20:00 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-08 23:20:00 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:12:18 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:12:18 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:13:11 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:13:11 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:14:06 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:14:07 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:14:45 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:14:46 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:25:12 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:25:12 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:25:15 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:25:46 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:26:32 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:27:24 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:27:24 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:27:59 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:58:32 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 09:58:33 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 10:02:27 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 10:02:27 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:08:09 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:08:10 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:14:52 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:16:05 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:18:07 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:19:11 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:20:24 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:23:07 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:34:20 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:34:23 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-09 23:34:23 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-09 23:35:20 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : India  score : 221/9
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : Bangladesh  score : (20 ov, T:222) 135/9
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Women  score : 172/3
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : Sri Lanka Women  score : (19.5/20 ov, T:173) 90
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : South Africa Women  score : 166/5
+2024-10-09 23:35:23 [main] INFO  stepDefinitions.StepDefinitions - Team name : Scotland Women  score : (17.5/20 ov, T:167) 86
+2024-10-09 23:35:24 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Under-19s  score : 492
+2024-10-09 23:35:24 [main] INFO  stepDefinitions.StepDefinitions - Team name : Australia Under-19s  score : (fo) 277 & 95
+2024-10-09 23:37:06 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:37:09 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-09 23:37:09 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-09 23:37:09 [main] INFO  stepDefinitions.StepDefinitions - Team name : India  score : 221/9
+2024-10-09 23:37:09 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Women  score : 172/3
+2024-10-09 23:37:10 [main] INFO  stepDefinitions.StepDefinitions - Team name : South Africa Women  score : 166/5
+2024-10-09 23:37:11 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Under-19s  score : 492
+2024-10-09 23:40:46 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:40:48 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-09 23:40:48 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-09 23:40:48 [main] INFO  stepDefinitions.StepDefinitions - Team name : India  score : 221/9
+2024-10-09 23:40:48 [main] INFO  stepDefinitions.StepDefinitions - Team name : Bangladesh  score : (20 ov, T:222) 135/9
+2024-10-09 23:40:48 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Women  score : 172/3
+2024-10-09 23:40:49 [main] INFO  stepDefinitions.StepDefinitions - Team name : Sri Lanka Women  score : (19.5/20 ov, T:173) 90
+2024-10-09 23:40:49 [main] INFO  stepDefinitions.StepDefinitions - Team name : South Africa Women  score : 166/5
+2024-10-09 23:40:49 [main] INFO  stepDefinitions.StepDefinitions - Team name : Scotland Women  score : (17.5/20 ov, T:167) 86
+2024-10-09 23:40:49 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Under-19s  score : 492
+2024-10-09 23:40:49 [main] INFO  stepDefinitions.StepDefinitions - Team name : Australia Under-19s  score : (fo) 277 & 95
+2024-10-09 23:41:56 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Team name : India  score : 221/9
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Team name : Bangladesh  score : (20 ov, T:222) 135/9
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Women  score : 172/3
+2024-10-09 23:41:59 [main] INFO  stepDefinitions.StepDefinitions - Team name : Sri Lanka Women  score : (19.5/20 ov, T:173) 90
+2024-10-09 23:42:00 [main] INFO  stepDefinitions.StepDefinitions - Team name : South Africa Women  score : 166/5
+2024-10-09 23:42:00 [main] INFO  stepDefinitions.StepDefinitions - Team name : Scotland Women  score : (17.5/20 ov, T:167) 86
+2024-10-09 23:42:00 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Under-19s  score : 492
+2024-10-09 23:42:00 [main] INFO  stepDefinitions.StepDefinitions - Team name : Australia Under-19s  score : (fo) 277 & 95
+2024-10-09 23:45:24 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:47:31 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:47:36 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:47:41 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:49:44 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:51:00 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:51:05 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:51:11 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-09 23:53:04 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:03:19 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:03:22 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:03:22 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Men's International Teams
+2024-10-10 00:04:21 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:24 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:25 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BBL Teams
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:26 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:27 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BPL Teams
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Men)
+2024-10-10 00:04:29 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:30 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: ILT20 Teams
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:31 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:32 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: PSL Teams
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:33 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:34 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: SA20 Teams
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Women)
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: WBBL Teams
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:04:39 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:05:25 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Namibia
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Nepal
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oman
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Papua New Guinea
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Scotland
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United Arab Emirates
+2024-10-10 00:05:28 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United States of America
+2024-10-10 00:06:32 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:06:34 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:06:34 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Namibia
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Nepal
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oman
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Papua New Guinea
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Scotland
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United Arab Emirates
+2024-10-10 00:06:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United States of America
+2024-10-10 00:08:33 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland
+2024-10-10 00:08:35 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Namibia
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Nepal
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oman
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Papua New Guinea
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Scotland
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United Arab Emirates
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United States of America
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BBL Teams
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies Women
+2024-10-10 00:08:36 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh Women
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Thailand Women
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe Women
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BPL Teams
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Brisbane Heat
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Hobart Hurricanes
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Renegades
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Stars
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Perth Scorchers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Sixers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Thunder
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Comilla Victorians
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dhaka Dominators
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Fortune Barishal
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Khulna Tigers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Rangpur Riders
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sylhet Strikers
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: ILT20 Teams
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Men)
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: PSL Teams
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:08:37 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Desert Vipers
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dubai Capitals
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Gulf Giants
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Emirates
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sharjah Warriors
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: SA20 Teams
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Karachi Kings
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Lahore Qalandars
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Multan Sultans
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Peshawar Zalmi
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Quetta Gladiators
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Joburg Super Kings
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Cape Town
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Paarl Royals
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pretoria Capitals
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sunrisers Eastern Cape
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: WBBL Teams
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Women)
+2024-10-10 00:08:38 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Women)
+2024-10-10 00:09:50 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Namibia
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Nepal
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oman
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Papua New Guinea
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Scotland
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United Arab Emirates
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United States of America
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BBL Teams
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh Women
+2024-10-10 00:09:53 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Thailand Women
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe Women
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BPL Teams
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Brisbane Heat
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Hobart Hurricanes
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Renegades
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Stars
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Perth Scorchers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Sixers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Thunder
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Comilla Victorians
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dhaka Dominators
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Fortune Barishal
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Khulna Tigers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Rangpur Riders
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sylhet Strikers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: ILT20 Teams
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Men)
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: PSL Teams
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Desert Vipers
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dubai Capitals
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Gulf Giants
+2024-10-10 00:09:54 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Emirates
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sharjah Warriors
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: SA20 Teams
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Karachi Kings
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Lahore Qalandars
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Multan Sultans
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Peshawar Zalmi
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Quetta Gladiators
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Joburg Super Kings
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Cape Town
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Paarl Royals
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pretoria Capitals
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sunrisers Eastern Cape
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: WBBL Teams
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Women)
+2024-10-10 00:09:55 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:10:32 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:10:34 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:10:37 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:10:39 [main] INFO  stepDefinitions.StepDefinitions - Live matches are visible
+2024-10-10 00:10:39 [main] INFO  stepDefinitions.StepDefinitions - Total Live Matches :: 4
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : India  score : 221/9
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : Bangladesh  score : (20 ov, T:222) 135/9
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Women  score : 172/3
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : Sri Lanka Women  score : (19.5/20 ov, T:173) 90
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : South Africa Women  score : 166/5
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : Scotland Women  score : (17.5/20 ov, T:167) 86
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : India Under-19s  score : 492
+2024-10-10 00:10:40 [main] INFO  stepDefinitions.StepDefinitions - Team name : Australia Under-19s  score : (fo) 277 & 95
+2024-10-10 00:10:42 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:10:50 [main] INFO  stepDefinitions.StepDefinitions - Player name :: Virat Kohli, 1988-
+2024-10-10 00:10:51 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:10:55 [main] INFO  stepDefinitions.StepDefinitions - Player name :: Joe Root, 1990-
+2024-10-10 00:10:57 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:11:05 [main] INFO  stepDefinitions.StepDefinitions - Player name :: Kane Williamson, 1990-
+2024-10-10 00:11:07 [main] INFO  driverManager.WebManager - Launching Url :: https://www.espncricinfo.com
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Teams header :: Cricket Teams
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: Popular Women's International Teams
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Afghanistan
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka
+2024-10-10 00:11:09 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Namibia
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Nepal
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oman
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Papua New Guinea
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Scotland
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United Arab Emirates
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: United States of America
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BBL Teams
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Australia Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: England Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: India Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Ireland Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Netherlands Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: New Zealand Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pakistan Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: South Africa Women
+2024-10-10 00:11:10 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sri Lanka Women
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: West Indies Women
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Bangladesh Women
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Thailand Women
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Zimbabwe Women
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: BPL Teams
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Adelaide Strikers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Brisbane Heat
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Hobart Hurricanes
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Renegades
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Melbourne Stars
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Perth Scorchers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Sixers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sydney Thunder
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Chattogram Challengers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Comilla Victorians
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dhaka Dominators
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Fortune Barishal
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Khulna Tigers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Rangpur Riders
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sylhet Strikers
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: ILT20 Teams
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Men)
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: PSL Teams
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Abu Dhabi Knight Riders
+2024-10-10 00:11:11 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Desert Vipers
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Dubai Capitals
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Gulf Giants
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Emirates
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sharjah Warriors
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: SA20 Teams
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Islamabad United
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Karachi Kings
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Lahore Qalandars
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Multan Sultans
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Peshawar Zalmi
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Quetta Gladiators
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: The Hundred (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Durban's Super Giants
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Joburg Super Kings
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: MI Cape Town
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Paarl Royals
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Pretoria Capitals
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Sunrisers Eastern Cape
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - ***************************
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Internation team name header :: WBBL Teams
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Birmingham Phoenix (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: London Spirit (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Manchester Originals (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Northern Superchargers (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Oval Invincibles (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Southern Brave (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Trent Rockets (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - Team name :: Welsh Fire (Women)
+2024-10-10 00:11:12 [main] INFO  stepDefinitions.StepDefinitions - ***************************

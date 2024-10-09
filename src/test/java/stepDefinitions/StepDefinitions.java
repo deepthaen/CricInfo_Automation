@@ -3,7 +3,11 @@ package stepDefinitions;
 import common.utils.ConfigReader;
 import driverManager.WebManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,39 +16,52 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import io.cucumber.java.en.Then;
+
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class StepDefinitions {
 
+    private static final Logger logger = LogManager.getLogger(StepDefinitions.class);
     private WebDriver driver;
     ConfigReader configReader = new ConfigReader();
     WebManager webManager = new WebManager();
     @Given("the browser is open")
     public void the_browser_is_open() {
-
         driver = webManager.getDriver(configReader.getProperty("browser"));
+    driver.get(webManager.getUrl());
     }
     @When("I navigate to the ESPN Cricinfo homepage")
     public void i_navigate_to_the_ESPN_Cricinfo_homepage() {
         webManager.getUrl();
     }
 
+
+
     @Then("the homepage should load with all elements visible")
     public void the_homepage_should_load_with_all_elements_visible() {
         String pageTitle = driver.getTitle();
-        Assert.assertTrue(pageTitle.contains("Live cricket scores"));
+        System.out.println("Page title  :: "+pageTitle);
+        Assert.assertTrue(pageTitle.contains("ESPNcricinfo"));
     }
 
     @When("I search for a player by name {string}")
     public void i_search_for_a_player_by_name(String playerName) {
-        driver.findElement(By.name("search_input")).sendKeys(playerName);
-        driver.findElement(By.cssSelector("search_button_selector")).click();
+        WebElement searchpath = driver.findElement(By.xpath("//i[contains(@class, 'icon-search-outlined')]"));
+        searchpath.click();
+        driver.findElement(By.xpath("//input[@placeholder='Search Players, Teams or Series']")).sendKeys(playerName);
+        driver.findElement(By.xpath("//*[contains(@class, 'icon-arrow_forward-filled')]")).click();
     }
 
     @Then("the relevant player profile should appear in the search results")
     public void the_relevant_player_profile_should_appear_in_the_search_results() {
-        Assert.assertTrue(driver.findElement(By.cssSelector("selector_for_player_profile")).isDisplayed());
+        WebElement results = driver.findElement(By.xpath("//h2[text()='Results in players (1)']"));
+        Assert.assertTrue(results.isDisplayed());
+        if(results.isDisplayed()){
+            logger.info("Player name :: "+ driver.findElement(By.xpath("//*[@class='alphabetical-name']")).getText());
+        }
     }
 
     @When("the user logs in with username {string} and password {string}")
@@ -67,14 +84,58 @@ public class StepDefinitions {
 
     @Then("the \"Teams\" page should load successfully with team details")
     public void the_teams_page_should_load_successfully_with_team_details() {
-        Assert.assertTrue(driver.findElement(By.cssSelector("selector_for_teams_page")).isDisplayed());
+        By by = By.xpath("//h1[text()='Cricket Teams']");
+        webManager.waitUntil(driver,by);
+        WebElement teams = driver.findElement(by);
+        Assert.assertTrue(teams.isDisplayed());
+        logger.info("Teams header :: "+ teams.getText());
+
+        List<WebElement> hrefs = driver.findElements(By.xpath("//*[@href='/teams']"));
+
+        for (int i = 1; i <hrefs.size(); i++) {
+            logger.info("Internation team name header :: "+hrefs.get(i).getText());
+            List<WebElement> teamslist = driver.findElements(By.xpath("(//*[@href='/teams'])["+i+"]/../../../div[2]/div/a"));
+            for (int j = 1; j <=teamslist.size(); j++) {
+                By team = By.xpath("(//*[@href='/teams'])["+i+"]/../../../div[2]/div/a["+j+"]/div/span");
+                String teamName  = driver.findElement(team).getText();
+                logger.info("Team name :: "+teamName);
+            }
+
+            logger.info("***************************");
+
+        }
+
+   
     }
 
     // Steps for navigating to "Stats" section
-    @When("I navigate to the \"Stats\" section")
-    public void i_navigate_to_the_stats_section() {
-        driver.findElement(By.linkText("Stats")).click();
+    @When("I navigate to the {string} section")
+    public void i_navigate_to_the_stats_section(String score) {
+        driver.findElement(By.xpath("//*[@title='"+score+"']")).click();
     }
+    @Then("the live scores should be visible and updated in real-time")
+    public void i_navigate_to_liceScore() {
+        webManager.waitUntil(driver,By.xpath("//*[text()='Live Cricket Matches']"));
+        WebElement matches = driver.findElement(By.xpath("//*[text()='Live Cricket Matches']"));
+        Assert.assertTrue(matches.isDisplayed());
+        logger.info("Live matches are visible");
+        List<WebElement> elements = driver.findElements(By.xpath("(//*[text()='RESULT'])"));
+        logger.info("Total Live Matches :: "+elements.size());
+        for (int i = 1; i <=elements.size(); i++) {
+            List<WebElement> teams = driver.findElements(
+                    By.xpath("(//*[text()='RESULT'])["+i+"]/../../../../div[2]/div/div"));
+            for (int j = 1; j <=teams.size(); j++) {
+                String teamname = driver.findElement(
+                        By.xpath("(//*[text()='RESULT'])["+i+"]/../../../../div[2]/div/div["+j+"]/div[1]")).getText();
+                String score = driver.findElement(
+                        By.xpath("(//*[text()='RESULT'])["+i+"]/../../../../div[2]/div/div["+j+"]/div[2]")).getText();
+                logger.info("Team name : "+teamname+"  score : "+score);
+            }
+
+        }
+    }
+
+
 
     @Then("the player/team statistics should be displayed accurately")
     public void the_player_team_statistics_should_be_displayed_accurately() {
@@ -150,7 +211,14 @@ public class StepDefinitions {
     @Then("I close the browser")
     public void i_close_the_browser() {
         if (driver != null) {
-            driver.quit();
+            driver.close();
         }
     }
+
+    public  WebDriver getDriver() {
+        return driver;
+    }
+
+
+
 }

@@ -4,30 +4,33 @@ Feature: Testing various functionalities on the ESPN Cricinfo website
     Given the browser is open
     When I navigate to the ESPN Cricinfo homepage
     Then the homepage should load with all elements visible
+    Then I close the browser
 
-#  Scenario Outline: Verify the display of live scores for different match types
-#    When I navigate to the "Live Scores" section
-#    Then the live scores should be visible and updated in real-time
-#    Examples:
-#      | matchType       |
-#      | "Test Match"    |
-#      | "ODI"           |
-#      | "T20"           |
-#
-#  Scenario Outline: Verify search functionality for a player
-#    Given the browser is open
-#    When I search for a player by name "<playerName>"
-#    Then the relevant player profile should appear in the search results
-#    Examples:
-#      | playerName       |
-#      | "Virat Kohli"    |
-#      | "Joe Root"       |
-#      | "Kane Williamson"|
-#
-#  Scenario: Verify navigation to "Teams" section
-#    Given the browser is open
-#    When I navigate to the "Teams" section
-#    Then the "Teams" page should load successfully with team details
+  Scenario Outline: Verify the display of live scores menu for different match types
+    Given the browser is open
+    When I navigate to the <type> section
+    Then the live scores should be visible and updated in real-time
+    Then I close the browser
+    Examples:
+      | type |
+      | "Live Cricket Score" |
+
+  Scenario Outline: Verify search functionality for a player
+    Given the browser is open
+    When I search for a player by name <playerName>
+    Then the relevant player profile should appear in the search results
+    Then I close the browser
+    Examples:
+      | playerName       |
+      | "Virat Kohli"    |
+      | "Joe Root"       |
+      | "Kane Williamson"|
+
+  Scenario: Verify navigation to "Teams" section
+    Given the browser is open
+    When I navigate to the "Cricket Teams" section
+    Then the "Teams" page should load successfully with team details
+    Then I close the browser
 #
 #  Scenario: Verify the stats section displays correct data
 #    Given the browser is open
